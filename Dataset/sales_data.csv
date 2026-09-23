@@ -1,0 +1,433 @@
+Date,Category,Region,Quantity,Average_Price,Promotion,Holiday,Sales
+2023-01-01,Electronics,North,81,667.07,No,Yes,54032.89
+2023-01-01,Electronics,South,80,620.38,No,Yes,49630.03
+2023-01-01,Electronics,East,75,649.62,No,Yes,48721.33
+2023-01-01,Electronics,West,91,667.69,No,Yes,60760.22
+2023-01-01,Furniture,North,91,528.51,No,Yes,48094.29
+2023-01-01,Furniture,South,88,502.55,No,Yes,44224.25
+2023-01-01,Furniture,East,78,516.64,No,Yes,40297.57
+2023-01-01,Furniture,West,96,517.19,No,Yes,49650.01
+2023-01-01,Office Supplies,North,132,244.47,No,Yes,32270.22
+2023-01-01,Office Supplies,South,146,243.62,Yes,Yes,35568.36
+2023-01-01,Office Supplies,East,120,235.7,No,Yes,28283.66
+2023-01-01,Office Supplies,West,139,249.48,No,Yes,34678.19
+2023-02-01,Electronics,North,88,631.24,No,No,55549.39
+2023-02-01,Electronics,South,86,662.36,No,No,56962.68
+2023-02-01,Electronics,East,78,652.65,No,No,50907.06
+2023-02-01,Electronics,West,94,655.09,No,No,61578.16
+2023-02-01,Furniture,North,89,525.26,No,No,46748.32
+2023-02-01,Furniture,South,81,514.18,No,No,41648.74
+2023-02-01,Furniture,East,77,514.99,No,No,39654.42
+2023-02-01,Furniture,West,86,537.62,No,No,46235.55
+2023-02-01,Office Supplies,North,136,241.37,No,No,32825.93
+2023-02-01,Office Supplies,South,133,246.66,No,No,32806.33
+2023-02-01,Office Supplies,East,129,247.21,Yes,No,31889.7
+2023-02-01,Office Supplies,West,140,230.48,No,No,32267.25
+2023-03-01,Electronics,North,105,653.24,Yes,No,68590.22
+2023-03-01,Electronics,South,96,653.61,Yes,No,62746.25
+2023-03-01,Electronics,East,88,660.39,Yes,No,58114.46
+2023-03-01,Electronics,West,106,641.32,Yes,No,67979.44
+2023-03-01,Furniture,North,109,511.46,Yes,No,55748.8
+2023-03-01,Furniture,South,100,528.13,Yes,No,52812.69
+2023-03-01,Furniture,East,92,512.3,Yes,No,47131.23
+2023-03-01,Furniture,West,105,493.66,Yes,No,51834.57
+2023-03-01,Office Supplies,North,152,243.36,Yes,No,36990.43
+2023-03-01,Office Supplies,South,145,250.91,Yes,No,36382.46
+2023-03-01,Office Supplies,East,122,238.27,No,No,29069.47
+2023-03-01,Office Supplies,West,159,247.06,Yes,No,39282.32
+2023-04-01,Electronics,North,95,655.41,No,No,62263.81
+2023-04-01,Electronics,South,84,651.64,No,No,54737.84
+2023-04-01,Electronics,East,83,650.5,No,No,53991.26
+2023-04-01,Electronics,West,99,626.72,No,No,62044.83
+2023-04-01,Furniture,North,92,544.74,No,No,50115.82
+2023-04-01,Furniture,South,87,546.63,No,No,47556.99
+2023-04-01,Furniture,East,84,503.14,No,No,42263.45
+2023-04-01,Furniture,West,90,531.56,No,No,47840.38
+2023-04-01,Office Supplies,North,159,231.47,Yes,No,36803.59
+2023-04-01,Office Supplies,South,136,256.77,No,No,34921.07
+2023-04-01,Office Supplies,East,136,231.69,No,No,31509.55
+2023-04-01,Office Supplies,West,157,233.17,No,No,36607.89
+2023-05-01,Electronics,North,91,646.8,No,No,58858.53
+2023-05-01,Electronics,South,90,646.39,No,No,58175.2
+2023-05-01,Electronics,East,77,638.94,No,No,49198.11
+2023-05-01,Electronics,West,92,690.22,No,No,63500.28
+2023-05-01,Furniture,North,100,510.91,No,No,51091.28
+2023-05-01,Furniture,South,88,506.8,No,No,44598.48
+2023-05-01,Furniture,East,77,535.26,No,No,41215.06
+2023-05-01,Furniture,West,100,527.01,No,No,52700.61
+2023-05-01,Office Supplies,North,149,234.5,No,No,34940.47
+2023-05-01,Office Supplies,South,142,229.7,No,No,32618.1
+2023-05-01,Office Supplies,East,122,253.26,No,No,30898.25
+2023-05-01,Office Supplies,West,148,242.4,No,No,35875.34
+2023-06-01,Electronics,North,104,640.65,Yes,No,66627.75
+2023-06-01,Electronics,South,94,684.94,Yes,No,64384.21
+2023-06-01,Electronics,East,88,618.87,Yes,No,54460.95
+2023-06-01,Electronics,West,113,645.92,Yes,No,72988.5
+2023-06-01,Furniture,North,114,499.85,Yes,No,56983.1
+2023-06-01,Furniture,South,102,512.82,Yes,No,52307.46
+2023-06-01,Furniture,East,88,526.14,Yes,No,46300.66
+2023-06-01,Furniture,West,104,531.72,Yes,No,55298.85
+2023-06-01,Office Supplies,North,163,232.92,Yes,No,37965.45
+2023-06-01,Office Supplies,South,147,237.19,Yes,No,34867.42
+2023-06-01,Office Supplies,East,131,240.26,Yes,No,31473.71
+2023-06-01,Office Supplies,West,170,235.93,Yes,No,40108.61
+2023-07-01,Electronics,North,89,662.24,No,No,58939.55
+2023-07-01,Electronics,South,84,634.17,No,No,53270.05
+2023-07-01,Electronics,East,86,654.02,Yes,No,56245.47
+2023-07-01,Electronics,West,89,655.19,No,No,58312.11
+2023-07-01,Furniture,North,98,504.47,No,No,49438.16
+2023-07-01,Furniture,South,80,509.25,No,No,40739.93
+2023-07-01,Furniture,East,93,506.73,Yes,No,47125.95
+2023-07-01,Furniture,West,82,517.04,No,No,42397.24
+2023-07-01,Office Supplies,North,137,232.63,No,No,31870.91
+2023-07-01,Office Supplies,South,126,227.68,No,No,28687.28
+2023-07-01,Office Supplies,East,117,230.79,No,No,27002.08
+2023-07-01,Office Supplies,West,165,230.16,No,No,37976.21
+2023-08-01,Electronics,North,83,689.33,No,Yes,57214.21
+2023-08-01,Electronics,South,79,667.68,No,Yes,52747.07
+2023-08-01,Electronics,East,75,646.96,No,Yes,48521.66
+2023-08-01,Electronics,West,89,643.94,No,Yes,57310.63
+2023-08-01,Furniture,North,84,528.58,No,Yes,44400.89
+2023-08-01,Furniture,South,83,526.4,No,Yes,43691.36
+2023-08-01,Furniture,East,78,506.87,No,Yes,39535.68
+2023-08-01,Furniture,West,93,558.1,Yes,Yes,51902.9
+2023-08-01,Office Supplies,North,141,233.59,No,Yes,32936.24
+2023-08-01,Office Supplies,South,135,230.66,No,Yes,31138.53
+2023-08-01,Office Supplies,East,118,244.03,No,Yes,28795.92
+2023-08-01,Office Supplies,West,143,243.82,No,Yes,34865.85
+2023-09-01,Electronics,North,81,651.19,No,No,52746.68
+2023-09-01,Electronics,South,75,653.47,No,No,49010.31
+2023-09-01,Electronics,East,69,654.02,No,No,45127.08
+2023-09-01,Electronics,West,97,610.03,Yes,No,59173.35
+2023-09-01,Furniture,North,104,492.08,Yes,No,51176.71
+2023-09-01,Furniture,South,85,518.88,Yes,No,44105.13
+2023-09-01,Furniture,East,75,543.66,Yes,No,40774.56
+2023-09-01,Furniture,West,87,527.99,No,No,45935.25
+2023-09-01,Office Supplies,North,132,237.51,No,No,31351.16
+2023-09-01,Office Supplies,South,125,248.31,Yes,No,31039.06
+2023-09-01,Office Supplies,East,128,238.4,Yes,No,30515.01
+2023-09-01,Office Supplies,West,141,255.29,Yes,No,35996.37
+2023-10-01,Electronics,North,89,648.48,No,Yes,57714.44
+2023-10-01,Electronics,South,85,684.38,No,Yes,58172.34
+2023-10-01,Electronics,East,84,626.94,No,Yes,52662.79
+2023-10-01,Electronics,West,95,634.73,No,Yes,60299.5
+2023-10-01,Furniture,North,90,541.03,No,Yes,48692.4
+2023-10-01,Furniture,South,82,525.54,No,Yes,43094.24
+2023-10-01,Furniture,East,82,549.42,No,Yes,45052.03
+2023-10-01,Furniture,West,95,530.75,No,Yes,50421.68
+2023-10-01,Office Supplies,North,158,243.09,No,Yes,38408.88
+2023-10-01,Office Supplies,South,135,246.84,No,Yes,33322.81
+2023-10-01,Office Supplies,East,131,241.97,No,Yes,31697.93
+2023-10-01,Office Supplies,West,149,238.76,No,Yes,35575.35
+2023-11-01,Electronics,North,103,672.75,Yes,No,69292.84
+2023-11-01,Electronics,South,95,683.7,Yes,No,64951.8
+2023-11-01,Electronics,East,88,654.6,Yes,No,57605.02
+2023-11-01,Electronics,West,103,680.23,Yes,No,70064.09
+2023-11-01,Furniture,North,108,530.08,Yes,No,57249.17
+2023-11-01,Furniture,South,78,549.2,No,No,42837.4
+2023-11-01,Furniture,East,89,543.83,Yes,No,48401.21
+2023-11-01,Furniture,West,93,505.55,No,No,47015.84
+2023-11-01,Office Supplies,North,166,242.32,Yes,No,40225.24
+2023-11-01,Office Supplies,South,140,240.46,Yes,No,33663.92
+2023-11-01,Office Supplies,East,143,245.9,Yes,No,35163.19
+2023-11-01,Office Supplies,West,148,246.39,No,No,36465.0
+2023-12-01,Electronics,North,107,633.97,No,Yes,67834.65
+2023-12-01,Electronics,South,95,668.67,No,Yes,63523.37
+2023-12-01,Electronics,East,92,643.95,No,Yes,59243.6
+2023-12-01,Electronics,West,130,604.66,Yes,Yes,78605.52
+2023-12-01,Furniture,North,104,477.53,No,Yes,49662.93
+2023-12-01,Furniture,South,114,514.82,Yes,Yes,58688.92
+2023-12-01,Furniture,East,90,544.16,No,Yes,48974.75
+2023-12-01,Furniture,West,109,544.64,Yes,Yes,59365.24
+2023-12-01,Office Supplies,North,156,235.01,No,Yes,36661.1
+2023-12-01,Office Supplies,South,147,236.99,No,Yes,34837.92
+2023-12-01,Office Supplies,East,157,228.39,No,Yes,35857.18
+2023-12-01,Office Supplies,West,171,243.99,Yes,Yes,41721.85
+2024-01-01,Electronics,North,83,671.12,No,Yes,55702.86
+2024-01-01,Electronics,South,90,625.66,No,Yes,56309.68
+2024-01-01,Electronics,East,84,645.69,No,Yes,54238.35
+2024-01-01,Electronics,West,94,680.05,No,Yes,63924.23
+2024-01-01,Furniture,North,85,539.42,No,Yes,45850.99
+2024-01-01,Furniture,South,93,526.98,No,Yes,49008.9
+2024-01-01,Furniture,East,79,555.51,No,Yes,43885.17
+2024-01-01,Furniture,West,97,522.92,No,Yes,50722.8
+2024-01-01,Office Supplies,North,139,242.8,No,Yes,33748.89
+2024-01-01,Office Supplies,South,146,233.0,No,Yes,34017.96
+2024-01-01,Office Supplies,East,121,230.61,No,Yes,27904.29
+2024-01-01,Office Supplies,West,156,256.27,Yes,Yes,39978.55
+2024-02-01,Electronics,North,90,657.91,No,No,59211.93
+2024-02-01,Electronics,South,89,654.22,No,No,58225.24
+2024-02-01,Electronics,East,79,674.2,No,No,53262.01
+2024-02-01,Electronics,West,90,709.1,No,No,63818.74
+2024-02-01,Furniture,North,102,521.67,No,No,53209.9
+2024-02-01,Furniture,South,92,516.9,No,No,47554.67
+2024-02-01,Furniture,East,88,504.5,No,No,44396.18
+2024-02-01,Furniture,West,99,532.11,No,No,52679.25
+2024-02-01,Office Supplies,North,153,237.6,No,No,36352.11
+2024-02-01,Office Supplies,South,135,247.86,No,No,33460.91
+2024-02-01,Office Supplies,East,138,223.28,No,No,30812.25
+2024-02-01,Office Supplies,West,157,247.52,No,No,38860.57
+2024-03-01,Electronics,North,115,582.56,Yes,No,66994.05
+2024-03-01,Electronics,South,98,637.27,No,No,62452.43
+2024-03-01,Electronics,East,91,643.24,Yes,No,58534.47
+2024-03-01,Electronics,West,110,667.99,Yes,No,73478.99
+2024-03-01,Furniture,North,118,507.47,Yes,No,59881.65
+2024-03-01,Furniture,South,94,503.84,No,No,47361.33
+2024-03-01,Furniture,East,95,511.95,No,No,48634.86
+2024-03-01,Furniture,West,115,524.7,Yes,No,60340.47
+2024-03-01,Office Supplies,North,176,232.09,Yes,No,40848.65
+2024-03-01,Office Supplies,South,150,245.35,Yes,No,36803.21
+2024-03-01,Office Supplies,East,174,219.89,Yes,No,38260.55
+2024-03-01,Office Supplies,West,169,233.06,Yes,No,39387.08
+2024-04-01,Electronics,North,101,644.24,No,No,65067.8
+2024-04-01,Electronics,South,100,627.06,No,No,62705.58
+2024-04-01,Electronics,East,90,658.76,No,No,59288.37
+2024-04-01,Electronics,West,98,696.3,No,No,68237.2
+2024-04-01,Furniture,North,103,506.29,No,No,52147.44
+2024-04-01,Furniture,South,94,503.82,No,No,47359.45
+2024-04-01,Furniture,East,90,520.93,No,No,46883.77
+2024-04-01,Furniture,West,106,533.46,No,No,56546.47
+2024-04-01,Office Supplies,North,168,244.61,Yes,No,41093.94
+2024-04-01,Office Supplies,South,140,239.43,No,No,33520.06
+2024-04-01,Office Supplies,East,131,241.59,No,No,31648.9
+2024-04-01,Office Supplies,West,164,250.48,No,No,41079.18
+2024-05-01,Electronics,North,111,595.17,No,No,66064.34
+2024-05-01,Electronics,South,98,625.61,No,No,61309.68
+2024-05-01,Electronics,East,100,623.23,No,No,62323.2
+2024-05-01,Electronics,West,98,686.65,No,No,67291.98
+2024-05-01,Furniture,North,96,553.15,No,No,53102.17
+2024-05-01,Furniture,South,100,489.94,No,No,48993.8
+2024-05-01,Furniture,East,99,510.53,Yes,No,50542.0
+2024-05-01,Furniture,West,112,487.7,No,No,54621.92
+2024-05-01,Office Supplies,North,146,250.71,No,No,36602.98
+2024-05-01,Office Supplies,South,142,244.55,No,No,34725.46
+2024-05-01,Office Supplies,East,148,225.84,No,No,33424.47
+2024-05-01,Office Supplies,West,170,241.98,Yes,No,41135.97
+2024-06-01,Electronics,North,114,631.65,Yes,No,72008.09
+2024-06-01,Electronics,South,106,655.5,Yes,No,69482.73
+2024-06-01,Electronics,East,103,639.98,Yes,No,65917.44
+2024-06-01,Electronics,West,116,635.9,Yes,No,73764.7
+2024-06-01,Furniture,North,109,512.51,Yes,No,55863.39
+2024-06-01,Furniture,South,109,476.09,Yes,No,51893.53
+2024-06-01,Furniture,East,109,512.62,Yes,No,55876.03
+2024-06-01,Furniture,West,113,514.79,Yes,No,58171.35
+2024-06-01,Office Supplies,North,153,244.41,No,No,37394.1
+2024-06-01,Office Supplies,South,156,257.24,Yes,No,40129.84
+2024-06-01,Office Supplies,East,148,238.81,Yes,No,35343.46
+2024-06-01,Office Supplies,West,160,241.38,Yes,No,38620.94
+2024-07-01,Electronics,North,101,646.04,No,No,65249.79
+2024-07-01,Electronics,South,83,663.36,No,No,55058.89
+2024-07-01,Electronics,East,87,654.04,Yes,No,56901.11
+2024-07-01,Electronics,West,100,611.51,No,No,61150.78
+2024-07-01,Furniture,North,91,513.77,No,No,46753.01
+2024-07-01,Furniture,South,88,490.6,No,No,43172.36
+2024-07-01,Furniture,East,88,473.32,No,No,41652.31
+2024-07-01,Furniture,West,100,507.01,No,No,50700.75
+2024-07-01,Office Supplies,North,149,242.93,No,No,36197.25
+2024-07-01,Office Supplies,South,139,243.53,No,No,33850.61
+2024-07-01,Office Supplies,East,123,246.86,No,No,30363.89
+2024-07-01,Office Supplies,West,161,235.62,No,No,37934.96
+2024-08-01,Electronics,North,92,640.09,No,Yes,58888.69
+2024-08-01,Electronics,South,87,684.09,No,Yes,59515.66
+2024-08-01,Electronics,East,79,657.15,No,Yes,51914.48
+2024-08-01,Electronics,West,108,598.77,No,Yes,64667.38
+2024-08-01,Furniture,North,98,477.77,No,Yes,46821.41
+2024-08-01,Furniture,South,96,516.34,Yes,Yes,49568.63
+2024-08-01,Furniture,East,84,501.24,No,Yes,42104.09
+2024-08-01,Furniture,West,104,502.24,No,Yes,52232.71
+2024-08-01,Office Supplies,North,149,238.14,No,Yes,35482.73
+2024-08-01,Office Supplies,South,134,245.89,No,Yes,32949.79
+2024-08-01,Office Supplies,East,127,238.23,No,Yes,30255.24
+2024-08-01,Office Supplies,West,135,245.76,No,Yes,33177.64
+2024-09-01,Electronics,North,82,675.66,No,No,55404.32
+2024-09-01,Electronics,South,88,629.0,Yes,No,55352.38
+2024-09-01,Electronics,East,83,667.46,Yes,No,55398.89
+2024-09-01,Electronics,West,93,660.19,Yes,No,61397.46
+2024-09-01,Furniture,North,100,516.58,Yes,No,51658.44
+2024-09-01,Furniture,South,93,534.69,Yes,No,49725.94
+2024-09-01,Furniture,East,74,538.23,Yes,No,39829.15
+2024-09-01,Furniture,West,102,486.15,Yes,No,49587.4
+2024-09-01,Office Supplies,North,147,255.1,Yes,No,37499.67
+2024-09-01,Office Supplies,South,145,232.5,Yes,No,33712.17
+2024-09-01,Office Supplies,East,135,231.47,Yes,No,31248.91
+2024-09-01,Office Supplies,West,161,249.54,Yes,No,40176.39
+2024-10-01,Electronics,North,104,664.55,No,Yes,69113.36
+2024-10-01,Electronics,South,101,664.45,No,Yes,67109.92
+2024-10-01,Electronics,East,91,657.75,No,Yes,59855.52
+2024-10-01,Electronics,West,108,637.35,No,Yes,68833.44
+2024-10-01,Furniture,North,105,551.47,No,Yes,57904.11
+2024-10-01,Furniture,South,95,544.58,No,Yes,51735.23
+2024-10-01,Furniture,East,95,500.1,No,Yes,47509.39
+2024-10-01,Furniture,West,112,496.29,No,Yes,55584.67
+2024-10-01,Office Supplies,North,168,255.1,Yes,Yes,42856.72
+2024-10-01,Office Supplies,South,151,242.09,No,Yes,36555.56
+2024-10-01,Office Supplies,East,144,230.91,No,Yes,33250.7
+2024-10-01,Office Supplies,West,166,229.5,No,Yes,38096.56
+2024-11-01,Electronics,North,122,609.35,Yes,No,74340.99
+2024-11-01,Electronics,South,108,674.1,Yes,No,72802.51
+2024-11-01,Electronics,East,88,625.35,No,No,55030.43
+2024-11-01,Electronics,West,112,679.29,Yes,No,76080.12
+2024-11-01,Furniture,North,118,497.36,Yes,No,58687.94
+2024-11-01,Furniture,South,110,516.32,Yes,No,56795.43
+2024-11-01,Furniture,East,89,508.57,No,No,45262.66
+2024-11-01,Furniture,West,104,524.97,No,No,54597.12
+2024-11-01,Office Supplies,North,174,230.24,No,No,40061.5
+2024-11-01,Office Supplies,South,153,240.24,Yes,No,36757.41
+2024-11-01,Office Supplies,East,147,250.2,Yes,No,36779.28
+2024-11-01,Office Supplies,West,174,253.12,Yes,No,44042.2
+2024-12-01,Electronics,North,109,632.87,No,Yes,68983.02
+2024-12-01,Electronics,South,97,682.48,No,Yes,66200.1
+2024-12-01,Electronics,East,88,693.34,No,Yes,61013.93
+2024-12-01,Electronics,West,121,647.88,No,Yes,78393.17
+2024-12-01,Furniture,North,100,577.86,No,Yes,57785.51
+2024-12-01,Furniture,South,98,537.64,No,Yes,52688.3
+2024-12-01,Furniture,East,91,536.54,No,Yes,48824.83
+2024-12-01,Furniture,West,114,520.25,No,Yes,59309.02
+2024-12-01,Office Supplies,North,185,223.73,No,Yes,41389.95
+2024-12-01,Office Supplies,South,162,227.88,No,Yes,36917.32
+2024-12-01,Office Supplies,East,153,234.17,No,Yes,35828.71
+2024-12-01,Office Supplies,West,166,236.58,No,Yes,39272.56
+2025-01-01,Electronics,North,99,656.34,No,Yes,64978.07
+2025-01-01,Electronics,South,98,651.43,No,Yes,63840.46
+2025-01-01,Electronics,East,80,649.72,No,Yes,51977.58
+2025-01-01,Electronics,West,102,649.36,No,Yes,66235.07
+2025-01-01,Furniture,North,109,499.78,No,Yes,54475.79
+2025-01-01,Furniture,South,90,525.26,No,Yes,47273.25
+2025-01-01,Furniture,East,95,474.47,No,Yes,45074.56
+2025-01-01,Furniture,West,102,509.85,No,Yes,52004.63
+2025-01-01,Office Supplies,North,158,237.38,No,Yes,37506.25
+2025-01-01,Office Supplies,South,149,232.76,No,Yes,34680.72
+2025-01-01,Office Supplies,East,126,243.27,No,Yes,30652.45
+2025-01-01,Office Supplies,West,151,253.34,No,Yes,38254.57
+2025-02-01,Electronics,North,112,644.87,No,No,72225.6
+2025-02-01,Electronics,South,101,625.52,No,No,63177.06
+2025-02-01,Electronics,East,89,662.64,No,No,58974.91
+2025-02-01,Electronics,West,105,676.33,No,No,71015.0
+2025-02-01,Furniture,North,96,529.64,No,No,50844.99
+2025-02-01,Furniture,South,90,514.21,No,No,46279.27
+2025-02-01,Furniture,East,92,509.6,No,No,46883.17
+2025-02-01,Furniture,West,115,516.91,No,No,59444.78
+2025-02-01,Office Supplies,North,156,240.64,No,No,37539.21
+2025-02-01,Office Supplies,South,148,249.79,No,No,36968.71
+2025-02-01,Office Supplies,East,138,244.95,No,No,33803.4
+2025-02-01,Office Supplies,West,157,247.9,No,No,38920.05
+2025-03-01,Electronics,North,116,670.17,Yes,No,77739.19
+2025-03-01,Electronics,South,117,656.58,Yes,No,76820.2
+2025-03-01,Electronics,East,117,583.33,Yes,No,68249.49
+2025-03-01,Electronics,West,99,660.28,No,No,65367.5
+2025-03-01,Furniture,North,98,544.94,No,No,53404.5
+2025-03-01,Furniture,South,100,527.43,No,No,52742.63
+2025-03-01,Furniture,East,109,501.76,Yes,No,54691.55
+2025-03-01,Furniture,West,129,495.16,Yes,No,63875.86
+2025-03-01,Office Supplies,North,173,247.76,Yes,No,42863.28
+2025-03-01,Office Supplies,South,174,239.11,Yes,No,41604.8
+2025-03-01,Office Supplies,East,172,231.6,Yes,No,39835.62
+2025-03-01,Office Supplies,West,202,236.54,Yes,No,47780.35
+2025-04-01,Electronics,North,108,660.54,No,No,71338.5
+2025-04-01,Electronics,South,101,666.73,No,No,67340.19
+2025-04-01,Electronics,East,102,618.05,No,No,63041.39
+2025-04-01,Electronics,West,111,639.02,No,No,70930.83
+2025-04-01,Furniture,North,109,552.66,No,No,60239.67
+2025-04-01,Furniture,South,101,526.42,No,No,53168.37
+2025-04-01,Furniture,East,95,522.38,No,No,49626.09
+2025-04-01,Furniture,West,114,506.73,No,No,57766.88
+2025-04-01,Office Supplies,North,173,240.03,No,No,41524.35
+2025-04-01,Office Supplies,South,167,236.85,No,No,39554.17
+2025-04-01,Office Supplies,East,156,229.63,No,No,35821.9
+2025-04-01,Office Supplies,West,179,226.1,No,No,40471.4
+2025-05-01,Electronics,North,102,651.19,No,No,66421.07
+2025-05-01,Electronics,South,98,664.1,No,No,65081.63
+2025-05-01,Electronics,East,93,659.32,No,No,61317.09
+2025-05-01,Electronics,West,101,641.71,No,No,64812.61
+2025-05-01,Furniture,North,108,519.92,No,No,56150.89
+2025-05-01,Furniture,South,107,523.69,No,No,56034.88
+2025-05-01,Furniture,East,98,510.39,No,No,50018.41
+2025-05-01,Furniture,West,118,509.85,No,No,60162.13
+2025-05-01,Office Supplies,North,178,231.98,No,No,41292.4
+2025-05-01,Office Supplies,South,163,240.86,No,No,39259.56
+2025-05-01,Office Supplies,East,143,235.48,No,No,33674.16
+2025-05-01,Office Supplies,West,161,243.68,No,No,39231.69
+2025-06-01,Electronics,North,114,652.49,Yes,No,74384.37
+2025-06-01,Electronics,South,99,683.49,Yes,No,67665.34
+2025-06-01,Electronics,East,103,652.69,Yes,No,67227.32
+2025-06-01,Electronics,West,113,683.08,Yes,No,77188.0
+2025-06-01,Furniture,North,102,518.9,No,No,52928.15
+2025-06-01,Furniture,South,108,546.3,Yes,No,59000.54
+2025-06-01,Furniture,East,106,499.71,Yes,No,52969.68
+2025-06-01,Furniture,West,115,503.39,Yes,No,57889.35
+2025-06-01,Office Supplies,North,175,263.6,Yes,No,46129.54
+2025-06-01,Office Supplies,South,157,238.73,No,No,37480.53
+2025-06-01,Office Supplies,East,145,236.57,No,No,34302.65
+2025-06-01,Office Supplies,West,170,245.49,Yes,No,41732.83
+2025-07-01,Electronics,North,96,650.19,No,No,62418.58
+2025-07-01,Electronics,South,97,635.07,No,No,61602.25
+2025-07-01,Electronics,East,82,685.93,No,No,56245.97
+2025-07-01,Electronics,West,102,678.25,No,No,69181.97
+2025-07-01,Furniture,North,101,530.89,No,No,53619.88
+2025-07-01,Furniture,South,88,532.75,No,No,46882.28
+2025-07-01,Furniture,East,81,543.72,No,No,44041.72
+2025-07-01,Furniture,West,111,515.06,No,No,57171.16
+2025-07-01,Office Supplies,North,153,240.86,No,No,36851.13
+2025-07-01,Office Supplies,South,157,236.97,No,No,37203.56
+2025-07-01,Office Supplies,East,128,243.78,No,No,31204.18
+2025-07-01,Office Supplies,West,174,238.02,Yes,No,41415.31
+2025-08-01,Electronics,North,103,690.3,Yes,Yes,71100.7
+2025-08-01,Electronics,South,100,602.28,No,Yes,60228.3
+2025-08-01,Electronics,East,87,634.4,No,Yes,55192.53
+2025-08-01,Electronics,West,96,679.31,No,Yes,65213.96
+2025-08-01,Furniture,North,100,518.38,No,Yes,51838.39
+2025-08-01,Furniture,South,111,477.78,No,Yes,53033.92
+2025-08-01,Furniture,East,85,520.26,No,Yes,44222.47
+2025-08-01,Furniture,West,106,513.01,No,Yes,54378.71
+2025-08-01,Office Supplies,North,160,241.55,No,Yes,38647.37
+2025-08-01,Office Supplies,South,151,235.28,No,Yes,35527.81
+2025-08-01,Office Supplies,East,135,240.01,No,Yes,32401.52
+2025-08-01,Office Supplies,West,148,228.09,No,Yes,33757.54
+2025-09-01,Electronics,North,102,644.21,Yes,No,65709.18
+2025-09-01,Electronics,South,96,630.42,Yes,No,60519.92
+2025-09-01,Electronics,East,80,641.73,No,No,51338.28
+2025-09-01,Electronics,West,97,647.34,Yes,No,62792.07
+2025-09-01,Furniture,North,109,490.88,Yes,No,53505.51
+2025-09-01,Furniture,South,98,526.67,Yes,No,51613.17
+2025-09-01,Furniture,East,83,535.56,Yes,No,44451.09
+2025-09-01,Furniture,West,109,519.81,Yes,No,56658.89
+2025-09-01,Office Supplies,North,156,243.07,Yes,No,37918.77
+2025-09-01,Office Supplies,South,144,252.87,Yes,No,36412.84
+2025-09-01,Office Supplies,East,135,246.3,Yes,No,33250.64
+2025-09-01,Office Supplies,West,187,229.68,Yes,No,42951.06
+2025-10-01,Electronics,North,121,625.92,No,Yes,75736.82
+2025-10-01,Electronics,South,100,659.56,No,Yes,65956.02
+2025-10-01,Electronics,East,95,634.66,No,Yes,60292.86
+2025-10-01,Electronics,West,100,701.91,No,Yes,70190.71
+2025-10-01,Furniture,North,116,511.1,No,Yes,59287.46
+2025-10-01,Furniture,South,112,471.74,No,Yes,52834.76
+2025-10-01,Furniture,East,96,479.05,No,Yes,45989.18
+2025-10-01,Furniture,West,120,519.19,No,Yes,62302.95
+2025-10-01,Office Supplies,North,169,246.57,No,Yes,41670.92
+2025-10-01,Office Supplies,South,181,246.12,Yes,Yes,44547.94
+2025-10-01,Office Supplies,East,150,244.76,No,Yes,36713.4
+2025-10-01,Office Supplies,West,173,230.05,No,Yes,39799.22
+2025-11-01,Electronics,North,107,651.97,Yes,No,69760.58
+2025-11-01,Electronics,South,109,650.6,Yes,No,70915.93
+2025-11-01,Electronics,East,102,685.31,Yes,No,69901.14
+2025-11-01,Electronics,West,120,637.92,No,No,76550.43
+2025-11-01,Furniture,North,123,512.5,Yes,No,63037.36
+2025-11-01,Furniture,South,92,537.6,No,No,49459.65
+2025-11-01,Furniture,East,101,525.5,Yes,No,53075.08
+2025-11-01,Furniture,West,117,534.1,Yes,No,62489.21
+2025-11-01,Office Supplies,North,204,235.95,Yes,No,48133.65
+2025-11-01,Office Supplies,South,174,246.68,Yes,No,42923.11
+2025-11-01,Office Supplies,East,164,239.03,Yes,No,39200.89
+2025-11-01,Office Supplies,West,173,244.99,No,No,42382.55
+2025-12-01,Electronics,North,139,641.47,Yes,Yes,89164.33
+2025-12-01,Electronics,South,107,650.53,No,Yes,69606.85
+2025-12-01,Electronics,East,120,658.27,Yes,Yes,78992.9
+2025-12-01,Electronics,West,151,600.62,Yes,Yes,90693.39
+2025-12-01,Furniture,North,120,521.1,No,Yes,62532.06
+2025-12-01,Furniture,South,104,519.58,No,Yes,54036.02
+2025-12-01,Furniture,East,105,523.09,No,Yes,54924.31
+2025-12-01,Furniture,West,127,481.25,No,Yes,61118.57
+2025-12-01,Office Supplies,North,198,226.76,No,Yes,44899.43
+2025-12-01,Office Supplies,South,168,231.89,No,Yes,38957.7
+2025-12-01,Office Supplies,East,140,245.16,No,Yes,34322.38
+2025-12-01,Office Supplies,West,200,219.16,No,Yes,43832.41
