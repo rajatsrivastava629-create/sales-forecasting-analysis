@@ -1,99 +1,136 @@
 # 📊 Sales Forecasting & Analysis
 
-## Project Overview
+## 📌 Project Overview
 
-A practical Data Analyst portfolio project focused on analyzing historical sales data, identifying trends and business patterns, and preparing a transparent sales forecasting workflow.
+This project focuses on analyzing historical sales data to understand **sales trends, seasonal patterns, category performance, regional performance, and promotional impact**. It also includes sales forecasting to estimate future sales based on historical patterns.
 
-The project uses **Advanced Excel, SQL, and Power BI**.
+The project combines **Advanced Excel, SQL, and Power BI** to demonstrate an end-to-end data analytics workflow.
 
-## Objectives
+## 🎯 Objectives
 
-- Analyze monthly and yearly sales performance
-- Identify category and regional performance
-- Evaluate promotional and holiday impact
-- Analyze sales trends and seasonality
-- Create a simple, explainable sales forecast
-- Prepare an interactive Power BI dashboard design
+* Analyze historical sales performance
+* Identify monthly and yearly sales trends
+* Analyze category-wise and region-wise performance
+* Evaluate the impact of promotions and holidays on sales
+* Identify seasonal sales patterns
+* Perform sales forecasting using historical sales data
+* Create business-focused visualizations and insights
 
-## Tools
+## 🛠️ Tools & Technologies
 
-- **Advanced Excel** — cleaning, PivotTables, PivotCharts, analysis, and forecasting
-- **SQL** — aggregation, filtering, date analysis, and business queries
-- **Power BI** — dashboard visualization and interactive reporting
+| Tool               | Purpose                                                            |
+| ------------------ | ------------------------------------------------------------------ |
+| **Advanced Excel** | Data cleaning, PivotTables, PivotCharts, analysis, and forecasting |
+| **SQL**            | Data querying, aggregation, filtering, and trend analysis          |
+| **Power BI**       | Interactive dashboard and business visualization                   |
 
-## Dataset
+## 📊 Dataset
 
-The portfolio dataset contains monthly sales records from **January 2023 to December 2025** across three product categories and four regions.
+The dataset contains monthly sales records from **January 2023 to December 2025**.
 
-Fields include:
+### Dataset Fields
 
-- Date
-- Category
-- Region
-- Quantity
-- Average Price
-- Promotion
-- Holiday
-- Sales
+* **Date** – Sales date
+* **Category** – Product category
+* **Region** – Sales region
+* **Quantity** – Units sold
+* **Average Price** – Average selling price
+* **Promotion** – Promotion status
+* **Holiday** – Holiday indicator
+* **Sales** – Total sales value
 
-## Analysis
+The dataset covers three product categories across four regions.
 
-### Excel
-- Data cleaning and formatting
-- Monthly sales analysis
-- Category analysis
-- Regional analysis
-- Promotion analysis
-- Moving-average forecasting
-- Actual vs Forecast comparison
-- Charts and KPI summary
+## 🔍 Analysis Performed
 
-### SQL
-- Total sales and quantity
-- Monthly sales trends
-- Yearly performance
-- Category performance
-- Regional performance
-- Promotion and holiday impact
-- Monthly category analysis
-- Quarterly sales
+### 📗 Advanced Excel
 
-### Power BI
-The included guide explains how to build a dashboard with:
+* Data cleaning and formatting
+* Monthly sales analysis
+* Category-wise sales analysis
+* Region-wise sales analysis
+* Promotion impact analysis
+* PivotTables and PivotCharts
+* Moving-average forecasting
+* Actual vs Forecast analysis
+* KPI summary
 
-- KPI cards
-- Actual vs Forecast
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Region
-- Promotion Impact
-- Interactive slicers
+### 🗄️ SQL
 
-## Dashboard Preview
+SQL queries were used to analyze:
+
+* Total sales and quantity
+* Monthly sales trends
+* Yearly sales performance
+* Category performance
+* Regional performance
+* Promotion impact
+* Holiday impact
+* Monthly category performance
+* Quarterly sales performance
+
+### 📈 Sales Forecasting
+
+Historical monthly sales data was analyzed to identify trends and estimate future sales.
+
+A **3-month moving average** is used as a simple and explainable forecasting baseline.
+
+The analysis includes:
+
+* Historical sales trends
+* Monthly patterns
+* Moving-average forecast
+* Actual vs Forecast comparison
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard is designed to provide an interactive overview of sales performance.
+
+### Dashboard Includes
+
+* Total Sales KPI
+* Total Quantity KPI
+* Average Monthly Sales
+* Forecast Sales
+* Monthly Sales Trend
+* Actual vs Forecast Sales
+* Sales by Category
+* Sales by Region
+* Promotion Impact
+* Interactive filters for Year, Category, Region, and Promotion
+
+### Dashboard Preview
 
 ![Sales Forecasting Dashboard](Dashboard_Preview/Sales_Forecasting_Dashboard_Preview.png)
 
-## Project Workflow
+## 🔄 Project Workflow
 
-**Raw Data → Data Cleaning → Excel Analysis → SQL Analysis → Forecasting → Power BI Dashboard**
+```text
+Raw Sales Data
+       ↓
+Data Cleaning & Preparation
+       ↓
+Advanced Excel Analysis
+       ↓
+SQL Analysis
+       ↓
+Sales Forecasting
+       ↓
+Power BI Visualization
+       ↓
+Business Insights
+```
 
-## Repository Contents
+## 💡 Key Business Areas
 
-- `Dataset/` — sales dataset
-- `Excel_Analysis/` — complete Excel analysis workbook
-- `SQL/` — SQL analysis queries
-- `PowerBI/` — dashboard build guide
-- `Dashboard_Preview/` — dashboard preview image
-- `Documentation/` — project notes
+This project helps analyze:
 
-## Power BI File
+* Sales growth and trends
+* Product category performance
+* Regional performance
+* Promotional impact
+* Seasonal patterns
+* Future sales expectations
 
-The native `.pbix` file is not included because it must be created and saved from Power BI Desktop. After creating it, place it inside:
+These insights can support **sales planning, inventory management, and business decision-making**.
 
-`PowerBI/Sales_Forecasting.pbix`
-
-## Author
-
-**Rajat Srivastava**  
-B.Tech Computer Science Engineering  
-Data Analytics | SQL | Power BI | Advanced Excel
